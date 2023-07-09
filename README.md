@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @linsanjo7
 - 👀 I’m interested in Native and Hybrid App development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently a consulting Flutter Developer
 - 💞️ I’m looking to collaborate with Startups
 - 📫 You can reach me at +918428258159
